@@ -1,0 +1,28 @@
+{
+  "name": "latin-scansion",
+  "version": "0.1.0",
+  "description": "Scanning latin sentences",
+  "main": "lib/latin-scansion.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KatherineThompson/latin-scansion"
+  },
+  "keywords": [
+    "latin"
+  ],
+  "author": "Katherine Thompson <kethompson29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KatherineThompson/latin-scansion/issues"
+  },
+  "homepage": "https://github.com/KatherineThompson/latin-scansion",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-mocha-test": "~0.8.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "chai": "~1.8.1"
+  }
+}
